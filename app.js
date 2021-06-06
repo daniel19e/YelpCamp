@@ -1,6 +1,6 @@
 const express = require('express')
-const mongoose = require('mongoose')
 const app = express()
+const mongoose = require('mongoose')
 const path = require('path')
 const Campground = require('./models/campground')
 
